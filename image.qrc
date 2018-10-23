@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons8-heart-with-pulse-50.png</file>
+    </qresource>
+</RCC>
